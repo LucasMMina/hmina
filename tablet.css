@@ -1,0 +1,24 @@
+@media screen and (max-width: 960px){
+
+   header{
+    flex-direction: column;
+   }
+
+   main{
+    flex-direction: column;
+    margin-top: 0px;
+   }
+
+   h2{
+    font-size: 38px;
+   }
+
+   main img {
+    margin-top: 50px;
+    max-width: 500px;
+   }
+
+   ul {
+    text-align: center;
+   }
+}
